@@ -12,7 +12,6 @@ namespace c0732140
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
-
         }
     }
 }
